@@ -1,0 +1,58 @@
+
+18:23:49 24.12.2023 Login page: INFO - Authorization has started
+18:23:50 24.12.2023 Login page: INFO - Successful authorization
+18:23:50 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:24:08 24.12.2023 GitHubTest: INFO - validateRepositoriesList starts
+18:24:08 24.12.2023 Login page: INFO - Authorization has started
+18:24:09 24.12.2023 Login page: INFO - Successful authorization
+18:24:09 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:24:10 24.12.2023 Profile page: INFO - Repositories page
+18:24:11 24.12.2023 GitHubTest: INFO - validateRepositoriesList passed successfully
+18:27:02 24.12.2023 Login page: INFO - Authorization has started
+18:27:04 24.12.2023 Login page: INFO - Successful authorization
+18:27:04 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:27:23 24.12.2023 GitHubTest: INFO - validateRepositoriesList starts
+18:27:23 24.12.2023 Login page: INFO - Authorization has started
+18:27:25 24.12.2023 Login page: INFO - Successful authorization
+18:27:25 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:27:25 24.12.2023 Profile page: INFO - Repositories page
+18:27:26 24.12.2023 GitHubTest: INFO - validateRepositoriesList passed successfully
+18:28:12 24.12.2023 Login page: INFO - Authorization has started
+18:28:14 24.12.2023 Login page: INFO - Successful authorization
+18:28:14 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:28:33 24.12.2023 GitHubTest: INFO - validateRepositoriesList starts
+18:28:33 24.12.2023 Login page: INFO - Authorization has started
+18:28:35 24.12.2023 Login page: INFO - Successful authorization
+18:28:35 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:28:35 24.12.2023 Profile page: INFO - Repositories page
+18:28:36 24.12.2023 GitHubTest: INFO - validateRepositoriesList passed successfully
+18:32:37 24.12.2023 Login page: INFO - Authorization has started
+18:32:38 24.12.2023 Login page: INFO - Successful authorization
+18:32:38 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:32:57 24.12.2023 GitHubTest: INFO - validateRepositoriesList starts
+18:32:58 24.12.2023 Login page: INFO - Authorization has started
+18:32:59 24.12.2023 Login page: INFO - Successful authorization
+18:32:59 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:32:59 24.12.2023 Profile page: INFO - Repositories page
+18:33:01 24.12.2023 GitHubTest: INFO - validateRepositoriesList passed successfully
+18:37:13 24.12.2023 Login page: INFO - Authorization has started
+18:37:15 24.12.2023 Login page: INFO - Successful authorization
+18:37:15 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:37:33 24.12.2023 GitHubTest: INFO - validateRepositoriesList starts
+18:37:34 24.12.2023 Login page: INFO - Authorization has started
+18:37:35 24.12.2023 Login page: INFO - Successful authorization
+18:37:35 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+18:37:35 24.12.2023 Profile page: INFO - Repositories page
+18:37:36 24.12.2023 GitHubTest: INFO - validateRepositoriesList passed successfully
+18:45:56 24.12.2023 Login page: INFO - Authorization has started
+18:45:58 24.12.2023 Login page: INFO - Successful authorization
+18:45:58 24.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+16:50:17 25.12.2023 Login page: INFO - Authorization has started
+16:50:19 25.12.2023 Login page: INFO - Successful authorization
+16:50:19 25.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+16:50:38 25.12.2023 GitHubTest: INFO - validateRepositoriesList starts
+16:50:38 25.12.2023 Login page: INFO - Authorization has started
+16:50:40 25.12.2023 Login page: INFO - Successful authorization
+16:50:40 25.12.2023 Login page: INFO - [0;32mSuccessful authorization[0m
+16:50:40 25.12.2023 Profile page: INFO - Repositories page
+16:50:41 25.12.2023 GitHubTest: INFO - validateRepositoriesList passed successfully
